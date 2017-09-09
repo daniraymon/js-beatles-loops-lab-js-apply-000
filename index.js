@@ -28,4 +28,5 @@ function iLoveTheBeatles(num) {
     array.push(sent);
     num++;
   } while (num < 15);
+  return array;
 }
