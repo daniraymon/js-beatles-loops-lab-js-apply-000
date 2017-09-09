@@ -18,4 +18,5 @@ function johnLennonFacts(array) {
     newArray.push(sent);
     i++;
   }
+  return newArray;
 }
