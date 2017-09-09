@@ -23,7 +23,8 @@ function johnLennonFacts(array) {
 
 function iLoveTheBeatles(num) {
   var array = [];
+  var sent = "I love the bEatles!";
   do {
 
-  } while ();
+  } while (num < 15);
 }
